@@ -1,0 +1,19 @@
+body{
+	background: orange;
+}
+
+li{
+	border: 2px solid blue;
+}
+
+
+/*Can only use an ID once per page to single out an element*/
+#special{
+	background: yellow;
+}
+
+
+/*Class Selector to select more than 1 to change in CSS*/
+.completed {
+	text-decoration: line-through;
+}
